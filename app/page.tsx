@@ -1,6 +1,6 @@
 import Hero from "@/components/grid-main";
 import Navbar from "@/components/navbar";
-import BentoGrid from "@/components/test-component";
+// import BentoGrid from "@/components/test-component";
 
 export default function Home() {
   return (

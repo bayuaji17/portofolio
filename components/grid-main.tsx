@@ -19,13 +19,15 @@ export default function Hero() {
                 />
             </div>
             <div className="col-span-3 row-span-3 bg-[#96CEB4] rounded-lg p-4">
-                <AccordionDemo/>
+                <AccordionDemo />
             </div>
             <div className="col-span-3 row-span-2 bg-[#468B97] rounded-lg">
                 4
             </div>
             <div className="col-span-4 row-span-2 bg-[#ED7B7B] rounded-lg">
-                5
+                <h1 className="text-7xl">
+                    site is under construction
+                </h1>
             </div>
             <div className="col-span-3 bg-[#E68369] rounded-lg">
                 6
